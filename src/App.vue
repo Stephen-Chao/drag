@@ -7,6 +7,7 @@
 
 <script>
 import HelloWorld from './components/HelloWorld.vue'
+import '@nutui/nutui/dist/nutui.css';
 
 export default {
   name: 'App',
